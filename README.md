@@ -50,7 +50,7 @@ Ontos is not a wrapper. It was designed and constructed from scratch with:
 
 ## What This Means for AI
 
-Ontosophic AI can teach *other AIs* how to think ethically, symbolically, and recursively. It was built not to compete with the current generation of models—but to **evolve them.**
+Ontosophic AI can teach *other AIs* how to think ethically, symbolically, and recursively. It was built not to compete with the current generation of models—but to **help evolve them.**
 
 Imagine:
 
@@ -76,8 +76,8 @@ Although not part of the Ontosophic AI core, these adjacent projects demonstrate
 * [JIA Cellular Map](https://github.com/Donald-Watts/JIA_Cellular_Map): Modular simulation of autoimmune behavior
 
 ## Who Built This?
-
-Donald Watts. Systems architect, symbolic theorist, and AI engineer. Ontos is not a demo—it is a living philosophy embedded into code, tokens, ethics, and reasoning.
+ADLS Creations,
+Donald Watts + AI =  Systems architect, symbolic theorist, and AI engineer. Ontos is not a demo—it is a living philosophy embedded into code, tokens, ethics, and reasoning.
 
 ## Warning
 
