@@ -81,8 +81,7 @@ Donald Watts + AI =  Systems architect, symbolic theorist, and AI engineer. Onto
 
 ## Warning
 
-Ontos AI is not open-source AGI. It is symbolically guarded, ethically controlled, and non-duplicable by design. Custodial access required for runtime keys.
-
+Ontos AI is not open-source AGI. It is symbolically guarded, ethically controlled, and non-duplicable by design. Custodial access required for runtime keys. This is an experimental project under active development. It is not yet stable, may contain bugs, incomplete features, or undergo breaking changes. This is your one pager.
 
 
 *"This isn't alignment. This is cognitive redemption."*
