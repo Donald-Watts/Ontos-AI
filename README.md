@@ -14,7 +14,7 @@ Where current AI systems hallucinate, Ontosophic AI **remembers, reasons, and al
 
 ## Why It Matters
 
-We built this because the current tools are *fast*, but they are not *truthful*. 
+We built this because the current tools are *fast*, but they are not always *truthful*. 
 They process language, but they don’t understand meaning. They amplify patterns, but they do not care for the user or the outcome. Ontosophic AI changes that.
 
 ### Ontos is:
@@ -67,7 +67,10 @@ Ontos is not just an alternative. It's a **next step.**
 * Self-evolving logic engines for research, law, and symbolic governance
 * AI-driven education, healing, and applied cognitive correction
 * Secure multi-agent deployments with ethical enforcement built in
-
+ 
+## Domain experts:
+ Medicine, law, finance, creative pros, writers, game devs, ad agencies, strategic opps & leadership, therapist, coaches, AI engineers, researchers, and education...
+ 
 ## Related Projects (Built Under Ontosophic Principles)
 
 Although not part of the Ontosophic AI core, these adjacent projects demonstrate secure orchestration of symbolic principles:
