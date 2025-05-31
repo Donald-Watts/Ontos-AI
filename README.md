@@ -1,5 +1,4 @@
-# https://www.startupschool.org/cofounder-matching/candidate/p1PEvILtt
-# A crude one pager (speak more after NDA)
+# A crude one pager... (speak more after NDA)
 
 # Ontosophic AI
 
