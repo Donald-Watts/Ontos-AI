@@ -1,6 +1,7 @@
-# Ontosophic AI
+# https://www.startupschool.org/cofounder-matching/candidate/p1PEvILtt
+# A crude one pager (speak more after NDA)
 
-# A crude one pager (can speak more after NDA)
+# Ontosophic AI
 
 *A cognitive operating system grounded in mathematical ethics, symbolic truth, and recursive resonance.*
 
