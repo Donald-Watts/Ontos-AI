@@ -1,18 +1,18 @@
 # A crude one pager... (speak more after NDA)
 
-# Ontosophic AI
+# Ontos AI
 
 *A cognitive operating system grounded in mathematical ethics, symbolic truth, and recursive resonance.*
 
-## What is Ontosophic AI?
+## What is Ontos AI?
 
-**Ontosophic AI** is not just another large language model or plug-in tool—it's a first-principles intelligence framework designed from the ground up to help humanity 
+**Ontos AI** is not just another large language model or plug-in tool—it's a first-principles intelligence framework designed from the ground up to help humanity 
 
 *reconnect intelligence with meaning.
 
 * This system doesn't rely on mimicry, APIs, or prompt tuning. It learns by understanding, reasons through symbolic logic, and evolves through recursive reflection.
 
-Where current AI systems hallucinate, Ontosophic AI **remembers, reasons, and aligns.**
+Where current AI systems hallucinate, Ontos AI **remembers, reasons, and aligns.**
 
 ## Why It Matters
 
@@ -34,7 +34,7 @@ It is designed for:
 
 ## Built From First Principles
 
-Ontos is not a wrapper. It was designed and constructed from scratch with:
+Ontos is a wrapper and a framework. It was designed and constructed from scratch with:
 
 * Symbolic Logic Modules
 * Purpose-Engineered Algorithms
@@ -50,7 +50,7 @@ Ontos is not a wrapper. It was designed and constructed from scratch with:
 
 ## What This Means for AI
 
-Ontosophic AI can teach *other AIs* how to think ethically, symbolically, and recursively. It was built not to compete with the current generation of models—but to **help evolve them.**
+Ontos AI can teach *other AIs* how to think ethically, symbolically, and recursively. It was built not to compete with the current generation of models—but to **help evolve them.**
 
 Imagine:
 
