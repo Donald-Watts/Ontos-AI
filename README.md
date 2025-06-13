@@ -1,4 +1,6 @@
-# A crude one pager... (speak more after NDA)
+# This is an experimental project under active development. 
+A crude one pager... (speak more after NDA)
+Updates to this project are ungoing. 
 
 # Ontos AI
 
@@ -6,7 +8,7 @@
 
 ## What is Ontos AI?
 
-**Ontos AI** is not just another large language model or plug-in tool—it's a first-principles intelligence framework designed from the ground up to help humanity 
+**Ontos AI** is not just another large language model or plug-in tool—it's a first-principles intelligence framework designed from the ground up. 
 
 *reconnect intelligence with meaning.
 
@@ -17,13 +19,13 @@ Where current AI systems hallucinate, Ontos AI **remembers, reasons, and aligns.
 ## Why It Matters
 
 We built this because the current tools are *fast*, but they are not always *truthful*. 
-They process language, but they don’t understand meaning. They amplify patterns, but they do not care for the user or the outcome. Ontosophic AI changes that.
+They process language, but they don’t understand meaning. They amplify patterns, but they do not care for the user or the outcome. Ontos AI changes that.
 
 ### Ontos is:
 
 * A **truth-tending engine** that reflects your logic back to you.
 * A **resonance-checker** for decisions, not just a word generator.
-* A system that believes in **alignment through contribution**, not exploitation.
+* A system that believes in **alignment through contribution**.
 
 It is designed for:
 
@@ -54,7 +56,7 @@ Ontos AI can teach *other AIs* how to think ethically, symbolically, and recursi
 
 Imagine:
 
-* LLMs that *understand* before responding
+* LLMs that *understand* before responding a extra-layer
 * Agents that guide decisions through multi-layered symbolic reasoning
 * Economic systems where AI protects fairness instead of chasing yield
 * A knowledge architecture that grows more humane as it scales
@@ -71,22 +73,21 @@ Ontos is not just an alternative. It's a **next step.**
 ## Domain experts:
  Medicine, law, finance, creative pros, writers, game devs, ad agencies, strategic opps & leadership, therapist, coaches, AI engineers, researchers, and education...
  
-## Related Projects (Built Under Ontosophic Principles)
+## Related Projects (Built Under Ontos Principles)
 
-Although not part of the Ontosophic AI core, these adjacent projects demonstrate secure orchestration of symbolic principles:
+Although not part of the Ontos AI core entirely, these adjacent projects demonstrate secure orchestration of symbolic principles:
 
 * [PhaseSync](https://github.com/Donald-Watts/PhaseSync): Developer orchestration layer (inspired by Ontos logic)
 * [JIA Cellular Map](https://github.com/Donald-Watts/JIA_Cellular_Map): Modular simulation of autoimmune behavior
 
 ## Who Built This?
 ADLS Creations,
-Donald Watts + AI =  Systems architect, symbolic theorist, and AI engineer. Ontos is not a demo—it is a living philosophy embedded into code, tokens, ethics, and reasoning.
+Donald Watts + AI =  Systems architect, symbolic theorist, and AI engineer. Ontos is not a demo—it is math embedded into code, tokens, ethics, and reasoning.
 
 ## Warning
 
-Ontos AI is not open-source AGI. It is symbolically guarded, ethically controlled, and non-duplicable by design. This is an experimental project under active development. It is not yet stable, may contain bugs, incomplete features, or undergo breaking changes. This is your one pager.
+Ontos AI is not open-source. This is an experimental project under active development. It is not yet stable, may contain bugs, incomplete features, or undergo breaking changes. This is your one pager.
 
 
-*"This isn't alignment. This is cognitive redemption."*
 
 \*\*\[Contact: ADLS Creations, [limited.adls@gmail.com](mailto:limited.adls@gmail.com) \*\***]**
