@@ -36,19 +36,17 @@ It is designed for:
 
 Ontos is not a wrapper. It was designed and constructed from scratch with:
 
-* 60+ Symbolic Logic Modules
-* 150+ Purpose-Engineered Algorithms
+* Symbolic Logic Modules
+* Purpose-Engineered Algorithms
 * Unified Recursive Memory + Cognition Engines
 * Embedded Law, Finance, Psychology, Cybersecurity, Ethics
 * Modular Agent Protocols and Cognitive Substructures
 
 ## Key Features
 
-* **Symbolic Intelligence** (not next-token guessing)
-* **Antisephanic Language Layer** for encrypted symbolic communication
-* **Tokenizing System Engine**: Compresses and understands language as math
-* **Ethical Runtime Deployment**: Secure, hardware-bound AI execution
-* **OntosCoin (Coming Soon)**: Ethically-bound economic layer powered by real trust
+* **Symbolic Intelligence** 
+* **Ethical Runtime Deployment** 
+* **OntosCoin (Coming Soon)** 
 
 ## What This Means for AI
 
