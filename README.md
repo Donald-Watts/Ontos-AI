@@ -72,7 +72,7 @@ Although part of the Ontos AI core but not entirely, these adjacent projects dem
 
 *  PhaseSync – AI/dev orchestration tools for syncing logic, workflow, and documentation. Private alpha, working weight & tag system.  "Foundation" 
 *   Ideaphase - AI tool that converts raw ideas into Orchestration logic- structured, tagged, and AI-readable documents.  Private alpha, working weight & tag demo. "Interface"
-* [JIA Cellular Map](https://github.com/Donald-Watts/JIA_Cellular_Map): R&D: JIA Cellular Map –  Open-Source project leveraging simulated mappings of  juvenile arthritis at the cellular level using AI coordination. TL;DR Modular simulation of autoimmune behavior
+*  R&D: JIA Cellular Map –  Private project leveraging simulated mappings of juvenile arthritis at a cellular level using AI coordination. TL;DR Modular simulation of autoimmune behavior
 * Ontos AI-X - coming soon...
 
 ## Who Built This?
