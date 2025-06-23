@@ -66,13 +66,7 @@ Ontos is not just an alternative. It's a **next step.**
 ## Domain experts:
  Medicine, law, finance, creative pros, writers, game devs, ad agencies, strategic opps & leadership, therapist, coaches, AI engineers, researchers, and education...
  
-## Related Projects (Built Under Ontos Principles)
 
-Although part of the Ontos AI core but not entirely, these adjacent projects demonstrate secure orchestration of symbolic principles: ( all inspired by Ontos logic)
-
-*  PhaseSync – AI/dev orchestration tools for syncing logic, workflow, and documentation. Private alpha, working weight & tag system.  "Foundation" 
-*   Ideaphase - AI tool that converts raw ideas into Orchestration logic- structured, tagged, and AI-readable documents.  Private alpha, working weight & tag demo. "Interface"
-*  R&D: JIA Cellular Map –  Private project leveraging simulated mappings of juvenile arthritis at a cellular level using AI coordination. TL;DR Modular simulation of autoimmune behavior
 * Ontos AI-X - coming soon...
 
 ## Who Built This?
