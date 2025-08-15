@@ -1,73 +1,163 @@
-# This is an experimental project under active development. 
-A crude one pager... (speak more after NDA)
-Updates to this project are ungoing. Ontos AI-X will be listed in more detail, shorty. Thank you for your patence.
+# This project is under active development. 
+A one pager... (speak more after NDA)
+Updates to this project are ungoing. Ontos AI-XRC is here. Thank you for your patence.
 
-# Ontos AI
-
-*A cognitive operating system grounded in mathematical ethics, symbolic truth, and recursive resonance.*
-
-## What is Ontos AI?
-
-**Ontos AI** is not just another large language model or plug-in tool—it's a first-principles intelligence framework . 
-
-* Reconnect intelligence with meaning.
-
-* This system doesn't rely on mimicry, APIs, or prompt tuning. It learns by understanding, reasons through symbolic logic.
-
-Where current AI systems hallucinate, Ontos AI **remembers, reasons, and aligns.**
-
-## Why It Matters
-
-We built this because the current tools are *fast*, but they are not always *truthful*. 
-They process language, but they don’t understand meaning. Ontos AI changes that. Well maybe not exactly... 
+**Ontos AI-XRC**
 
 
-It is designed for:
+A private, symbolic+semantic AI OS that learns and runs your workflows faster than you can explain them.
 
-* Researchers who want *answers, not guesses*
-* Developers who need *symbolically clean logic*
+Local-first. Containerized. Model-agnostic. Built to kill workflow chaos — not to farm your data.
 
-## Built From First Principles
+TL;DR (read this first)
+Status: Live core as of July 26, 2025; persistent memory + GUI integrated Aug 1–2, 2025.
 
-Ontos is a wrapper and a framework with:
+What it is: An operations layer (not a chatbot) that orchestrates your tools in real time with symbolic reasoning, semantic search, and persistent memory.
 
-* Symbolic Logic Modules
-* Purpose-Engineered Algorithms
-* Unified Recursive Memory + Cognition Engines
-* Embedded Law, Finance, Psychology, Cybersecurity, Ethics
-* Modular Agent Protocols and Cognitive Substructures
+How it runs: 8 containerized services on your own hardware; sub-100ms endpoints on a modest box.
 
-## Key Features
+Why care: Privacy, speed, and zero vendor lock-in — designed to outlast the AI-app hype cycle.
 
-* **Symbolic Intelligence** 
-* **Ethical Runtime Deployment** 
-* **OntosCoin (Coming Soon)** 
+Access: By invitation. No public binaries. No screenshots. If you’re serious, talk to me.
 
-## What This Means for AI
+What Ontos AI-XRC Does (without leaking the recipe)
+Learns + orchestrates: Observes your patterns, coordinates tasks across tools, and adapts in real time.
 
-Ontos AI can teach *other AIs* how to think ethically, symbolically, and recursively by enforcing the boundries. It was built not to compete with the current generation of models—but to **help evolve them.**
+Thinks in two modes: Symbolic (structure/logic) + Semantic (meaning/embedding) for reliable recall and control.
 
-Imagine:
+Remembers responsibly: Persistent memory with zone scoping and a clean GUI to manage it.
 
-* LLMs that *understand* before responding, Onto AI added the extra-layer
-* Agents that guide decisions through multi-layered symbolic reasoning
-* Economic systems where AI protects fairness and chases progress
-* A knowledge architecture that grows sharper as it scales
+Stays local: Fully private, containerized deployment; cloud only if you explicitly flip the switch.
 
-Ontos is not just an alternative. It's a **next step.**
+Swaps models: Model-agnostic core — not married to a single LLM or provider.
 
-## Supported Use Cases
 
-* Autonomous economic alignment via ethics-backed intelligence
-* Self-evolving logic engines for eg. research, law, and symbolic governance
-* AI-driven education, healing, and applied cognitive correction
-* Secure multi-agent deployments with ethical enforcement built in
- 
+
+Short version: rails, not another cart.
+What It’s Not
+Not a wrapper around one API.
+
+Not “yet another agent demo.”
+
+Not SaaS-first. Your machine, your rules.
+
+Current Snapshot (Aug 2025)
+Services: 8 (containerized, private).
+
+Performance: Endpoint responses < 100ms in core paths.
+
+Validation: 100+ tests (internal), 100% pass on latest build.
+
+GUI: Clean management interface for knowledge/memory; human-in-the-loop controls.
+
+DSL layer: Templates for defining workflows (rolling out).
+
+Hardware proof: HP ProDesk 600 G3 SFF (i7-6700, 32 GB RAM, Quadro P1000) — runs smooth.
+
+Why Now (and why this survives the hype)
+
+
+AI “apps” come and go. Infrastructure sticks. Ontos sits beneath the apps: an OS-like layer built for privacy, composability, and longevity. When the wrappers fade, the orchestration spine remains.
+
+Architecture (high-level, on purpose)
+Local-first micro-services (8) in containers; clean boundaries; stateless where possible.
+
+Knowledge service with symbolic+semantic search and autonomous refinement loop.
+
+Memory service with persistent zones, confidence scoring, and HIL controls.
+
+Router / Executor / Agent mgr / Validation (PhaseSync) / Coordination loop (O-Xi) interplay for reliable task flow.
+
+Model bus abstracts providers; hot-swappable backends.
+
+
+
+(If you’re looking for diagrams or endpoints here, you’re in the wrong README.)
+
+Security & Privacy
+Runs entirely offline unless you opt-in integrations.
+
+No telemetry. No “mystery analytics.”
+
+Configs are per-deploy; nothing is phoned home.
+
+Hardware & Deployment
+
+
+Baseline that works today:
+
+CPU: i7-6700 (or better)
+
+RAM: 32 GB
+
+GPU: Quadro P1000 (or similar)
+
+OS: Linux/Windows with Docker-compatible runtime
+
+
+
+Deployment: private containers, not public images.
+
+If you want to run it, we’ll align on your specs and I’ll provide a sealed config.
+
+Roadmap (safe edition)
+Near-term: Expand DSL workflow packs; context generation; analytics.
+
+Mid-term: Pluggable tool bridges; per-zone memory visualization; backup/migration.
+
+Long-term: Developer SDK; enterprise policy controls; hybrid cluster mode.
+
+FAQ (the short list)
+
+
+Is it usable right now?
+
+Yes — the core is live, fast, and stable. Workflows via DSL are rolling out.
+
+
+
+Can I see a demo?
+
+Yes, controlled demos only. No raw screens/recordings. I show just enough to evaluate fit.
+
+
+
+Is this tied to one LLM?
+
+No. It’s model-agnostic; swap or mix as needed.
+
+
+
+Why no code here?
+
+Because IP > clout. If you’re qualified and aligned, we’ll talk privately.
+
+
+
+Can I run it on my machine?
+
+If you meet (or exceed) the baseline specs, yes — via private containers + config.
+
+Work With Me
+
+Contact: [your email/DM handle here]
+
+Subject line: ONTOS – cofounder / pilot
+
+Include: hardware specs, background, and what problem you’d want Ontos to crush first.
+
+License
+
+
+All Rights Reserved.
+
+No copying, distribution, or derivative use without written permission. Any similarities to this system discovered in the wild will be treated as a coincidence — until they aren’t.
+
 ## Domain experts:
  Medicine, law, finance, creative pros, writers, game devs, ad agencies, strategic opps & leadership, therapist, coaches, AI engineers, researchers, and education...
  
 
-* Ontos AI-X - coming soon...
+* Ontos AI-XRC - is here...
 
 ## Who Built This?
 ADLS Creations,
@@ -75,8 +165,9 @@ Donald Watts + AI =  Systems architect, symbolic AI engineer. Ontos is not a dem
 
 ## Warning
 
-Ontos AI is not open-source. Ontos and all it's counterparts are private symbolic tagging and orchestration system developed by ADLS Creations. Proprietary system. This is an experimental project under active development. It is not yet stable, may contain bugs, incomplete features, or undergo breaking changes. This is your one pager.
+Ontos AI is not open-source. Ontos and all it's counterparts are private symbolic tagging and orchestration system developed by ADLS Creations. Proprietary system. This project is under active development. This is your one pager.
 
 
 
 \*\*\[Contact: ADLS Creations, [limited.adls@gmail.com](mailto:limited.adls@gmail.com) \*\***]**
+
