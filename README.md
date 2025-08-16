@@ -7,7 +7,7 @@ Updates to this project are ungoing. Ontos AI-XRC is here. Thank you for your pa
 
 A private, symbolic+semantic AI OS that learns and runs your workflows faster than you can explain them.
 
-Local-first. Containerized. Model-agnostic. Built to kill workflow chaos — not to farm your data.
+Local-first. Containerized. Model-agnostic. Built to kill workflow chaos and not to farm your data.
 
 TL;DR (read this first)
 Status: Live core as of July 26, 2025; persistent memory + GUI integrated Aug 1–2, 2025.
@@ -16,7 +16,7 @@ What it is: An operations layer (not a chatbot) that orchestrates your tools in 
 
 How it runs: 8 containerized services on your own hardware; sub-100ms endpoints on a modest box.
 
-Why care: Privacy, speed, and zero vendor lock-in — designed to outlast the AI-app hype cycle.
+Why care: Privacy, speed, and zero vendor lock-in, is designed to outlast the AI-app hype cycle.
 
 Access: By invitation. No public binaries. No screenshots. If you’re serious, talk to me.
 
@@ -151,7 +151,7 @@ License
 
 All Rights Reserved.
 
-No copying, distribution, or derivative use without written permission. Any similarities to this system discovered in the wild will be treated as a coincidence — until they aren’t.
+No copying, distribution, or derivative use without written permission. Any similarities to this system discovered in the wild will be treated as a coincidence... until they aren’t.
 
 ## Domain experts:
  Medicine, law, finance, creative pros, writers, game devs, ad agencies, strategic opps & leadership, therapist, coaches, AI engineers, researchers, and education...
@@ -170,4 +170,5 @@ Ontos AI is not open-source. Ontos and all it's counterparts are private symboli
 
 
 \*\*\[Contact: ADLS Creations, [limited.adls@gmail.com](mailto:limited.adls@gmail.com) \*\***]**
+
 
