@@ -161,7 +161,7 @@ No copying, distribution, or derivative use without written permission. Any simi
 
 ## Who Built This?
 ADLS Creations,
-Donald Watts + AI =  Systems architect, symbolic AI engineer. Ontos is not a demo—it is math embedded into code, tokens, ethics, and reasoning.
+Ontos is not a demo—it is math embedded into code, tokens, ethics, and reasoning.
 
 ## Warning
 
@@ -170,5 +170,6 @@ Ontos AI is not open-source. Ontos and all it's counterparts are private symboli
 
 
 \*\*\[Contact: ADLS Creations, [limited.adls@gmail.com](mailto:limited.adls@gmail.com) \*\***]**
+
 
 
