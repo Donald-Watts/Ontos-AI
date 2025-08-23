@@ -34,7 +34,8 @@ Swaps models: Model-agnostic core — not married to a single LLM or provider.
 
 
 Short version: rails, not another cart.
-What It’s Not
+What It’s Not:
+
 Not a wrapper around one API.
 
 Not “yet another agent demo.”
