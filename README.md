@@ -119,7 +119,7 @@ Yes — the core is live, fast, and stable. Workflows via DSL are rolling out.
 
 Can I see a demo?
 
-Yes, controlled demos only. No raw screens/recordings. I show just enough to evaluate fit.
+Yes, controlled demos only. No raw recordings. I show just enough to evaluate fit.
 
 
 
@@ -171,6 +171,7 @@ Ontos AI is not open-source. Ontos and all it's counterparts are private symboli
 
 
 \*\*\[Contact: ADLS Creations, [limited.adls@gmail.com](mailto:limited.adls@gmail.com) \*\***]**
+
 
 
 
