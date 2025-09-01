@@ -61,7 +61,7 @@ Model bus abstracts providers; hot-swappable backends.
 
 (If you’re looking for diagrams or endpoints here, you’re in the wrong README.)
 
-**Security & Privacy**
+## Security & Privacy
 Runs entirely offline unless you opt-in integrations.
 
 No telemetry. No “mystery analytics.”
@@ -155,6 +155,7 @@ Ontos AI is not open-source. Ontos and all it's counterparts are private symboli
 
 
 \*\*\[Contact: ADLS Creations, [limited.adls@gmail.com](mailto:limited.adls@gmail.com) \*\***]**
+
 
 
 
