@@ -145,17 +145,17 @@ No copying, distribution, or derivative use without written permission. Any simi
 * Ontos AI-XRC - is here...
 
 ## Who Built This?
-adlsconsulting.com
-ADLS Creations,
+ADLS Consulting,
 Ontos is not a demo—it is math embedded into code, tokens, ethics, and reasoning.
 
 ## Warning
 
-Ontos AI is not open-source. Ontos and all it's counterparts are private symbolic tagging and orchestration system developed by ADLS Creations. Proprietary system. This project is under active development. This is your one pager.
+Ontos AI is not open-source. Ontos and all it's counterparts are private symbolic tagging and orchestration system developed by ADLS Consulting. Proprietary system. This project is under active development. This is your one pager.
 
 
 
 \*\*\[Contact: ADLS Creations, [limited.adls@gmail.com](mailto:limited.adls@gmail.com) \*\***]**
+
 
 
 
