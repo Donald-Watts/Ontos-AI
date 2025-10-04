@@ -1,5 +1,5 @@
 # This project is under active development. 
-A one pager... (speak more after NDA)
+A one pager... 
 Updates to this project are ungoing. Ontos AI-XRC is here. Thank you for your patence.
 
 ## Ontos AI-XRC
@@ -10,52 +10,11 @@ Local-first. Containerized. Model-agnostic. Built to kill workflow chaos and not
 ## Read this first
 Status: Live core as of July 26, 2025; persistent memory + GUI integrated Aug 1–2, 2025.
 
-What it is: An operations layer that orchestrates your tools in real time with symbolic reasoning, semantic search, and persistent memory.
-
-How it runs: 8 containerized services on your own hardware; sub-100ms endpoints on a modest box.
+What it is: An operations layer that orchestrates your tools.
 
 Why care: Privacy, speed, and zero vendor lock-in, is designed to outlast the AI-app hype cycle.
 
 Access: By invitation. No public binaries. If you’re serious, talk to me.
-
-## What Ontos AI-XRC Does 
-Learns + orchestrates: Observes your patterns, coordinates tasks across tools, and adapts in real time.
-
-Thinks in two modes: Symbolic (structure/logic) + Semantic (meaning/embedding) for reliable recall and control.
-
-Remembers responsibly: Persistent memory with zone scoping and a clean GUI to manage it.
-
-Stays local: Fully private, containerized deployment; cloud only if you explicitly flip the switch.
-
-Swaps models: Model-agnostic core — not married to a single LLM or provider.
-
-**Short version: rails, not another cart.**
-
-What It’s Not:
-
-Not a wrapper around one API.
-
-Not “yet another agent demo.”
-
-Not SaaS-first. Your machine, your rules.
-
-
-**Why Now (and why this survives the hype)**
-
-
-AI “apps” come and go. Infrastructure sticks. Ontos sits beneath the apps: an OS-like layer built for privacy, composability, and longevity. When the wrappers fade, the orchestration spine remains.
-
-Architecture (high-level, on purpose)
-Local-first micro-services (8) in containers; clean boundaries; stateless where possible.
-
-Knowledge service with symbolic+semantic search and autonomous refinement loop.
-
-Memory service with persistent zones, confidence scoring, and HIL controls.
-
-Router / Executor / Agent mgr / Validation (PhaseSync) / Coordination loop (O-Xi) interplay for reliable task flow.
-
-Model bus abstracts providers; hot-swappable backends.
-
 
 (If you’re looking for diagrams or endpoints here, you’re in the wrong README.)
 
@@ -66,10 +25,7 @@ No telemetry. No “mystery analytics.”
 
 Configs are per-deploy; nothing is phoned home.
 
-
 **Deployment:** private containers, not public images.
-
-If you want to run it, we’ll align on your specs and I’ll provide a sealed config.
 
 ## Roadmap 
 Near-term: Expand DSL workflow packs; context generation; analytics.
@@ -77,37 +33,6 @@ Near-term: Expand DSL workflow packs; context generation; analytics.
 Mid-term: Pluggable tool bridges; per-zone memory visualization; backup/migration.
 
 Long-term: Developer SDK; enterprise policy controls; hybrid cluster mode.
-
-FAQ (the short list)
-
-
-Is it usable right now?
-
-Yes — the core is live, fast, and stable. Workflows via DSL are rolling out.
-
-
-
-Can I see a demo?
-
-Yes, controlled demos only. No raw recordings. I show just enough to evaluate fit.
-
-
-
-Is this tied to one LLM?
-
-No. It’s model-agnostic; swap or mix as needed.
-
-
-
-Why no code here?
-
-Because IP > clout. If you’re qualified and aligned, we’ll talk privately.
-
-
-
-Can I run it on my machine?
-
-If you meet (or exceed) the baseline specs, yes — via private containers + config.
 
 **Work With Me**
 
@@ -130,15 +55,17 @@ No copying, distribution, or derivative use without written permission. Any simi
 
 ## Who Built This?
 ADLS Consulting,
-Ontos is not a demo—it is math embedded into code, tokens, ethics, and reasoning.
+Ontos is not a demo.
 
 ## Warning
 
-Ontos AI is not open-source. Ontos and all it's counterparts are private symbolic tagging and orchestration system developed by ADLS Consulting. Proprietary system. This project is under active development. This is your one pager.
+Ontos AI is not open-source. Ontos is a private orchestration system being developed by ADLS Consulting. This project is under active development. Ontos is used for research and development purposes only.
+
 
 
 
 \*\*\[Contact: ADLS Creations, [limited.adls@gmail.com](mailto:limited.adls@gmail.com) \*\***]**
+
 
 
 
