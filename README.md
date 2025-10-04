@@ -5,8 +5,6 @@ Updates to this project are ungoing. Ontos AI-XRC is here. Thank you for your pa
 ## Ontos AI-XRC
 
 
-A private, symbolic+semantic AI OS that learns and runs your workflows faster than you can explain them.
-
 Local-first. Containerized. Model-agnostic. Built to kill workflow chaos and not to farm your data.
 
 ## Read this first
@@ -67,20 +65,6 @@ Runs entirely offline unless you opt-in integrations.
 No telemetry. No “mystery analytics.”
 
 Configs are per-deploy; nothing is phoned home.
-
-Hardware & Deployment
-
-
-Baseline that works today:
-
-CPU: i7-6700 (or better)
-
-RAM: 32 GB
-
-GPU: Quadro P1000 (or similar)
-
-OS: Linux/Windows with Docker-compatible runtime
-
 
 
 **Deployment:** private containers, not public images.
@@ -155,6 +139,7 @@ Ontos AI is not open-source. Ontos and all it's counterparts are private symboli
 
 
 \*\*\[Contact: ADLS Creations, [limited.adls@gmail.com](mailto:limited.adls@gmail.com) \*\***]**
+
 
 
 
