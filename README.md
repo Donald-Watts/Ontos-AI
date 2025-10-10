@@ -1,4 +1,6 @@
-# Go use the demo. It's a FREE fraction of Ontos AI and delivers everytime: ideaphase.app 
+# Go use the demo. It's a FREE fraction of Ontos AI and delivers everytime:
+ideaphase.app
+
 A one pager... 
 Updates to this project are ungoing. Ontos AI-XRC is here. Thank you for your patence.
 
@@ -65,6 +67,7 @@ Ontos AI is not open-source. Ontos is a private orchestration system being devel
 
 
 \*\*\[Contact: ADLS Creations, [limited.adls@gmail.com](mailto:limited.adls@gmail.com) \*\***]**
+
 
 
 
