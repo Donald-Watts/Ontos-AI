@@ -1,5 +1,4 @@
-# Go use the demo. It's a FREE fraction of Ontos AI and delivers everytime:
-ideaphase.app
+# I built and shipped a live demo ideaphase.app that calculates deterministic weights for text documents so language models can find and reason through information without chaos. It’s a working fragment of a much larger system I call Ontos AI XRC, a local-first AI operating layer that learns and orchestrates workflows in real time.  
 
 A one pager... 
 Updates to this project are ungoing. Ontos AI-XRC is here. Thank you for your patence.
@@ -67,6 +66,7 @@ Ontos AI is not open-source. Ontos is a private orchestration system being devel
 
 
 \*\*\[Contact: ADLS Creations, [limited.adls@gmail.com](mailto:limited.adls@gmail.com) \*\***]**
+
 
 
 
